@@ -1,8 +1,12 @@
 /* This is a comment. */
 
 h1 {
-  color: #0000ff;
+  color: red;
   text-align: center;
+  font-style: bold;
+  font-weight: 495x;
+  font-family: 'Roboto', sans-serif;
+  line-height: 50x;
 }
 
 h2 {
