@@ -1,46 +1,46 @@
-# _Instructions for Version Control, Backup Utilities, and More_
+# _Our first HTML Repo with Epicodus_
 
-#### By _**Kevin Williams**_
+#### By _**Brenna Lavin**_ and _**Kevin Williams**_
 
-#### _{Brief description of application}_
+#### _Blogging Site_
+
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+
 
 ## Description
 
-_{This is a detailed description of your application. Give as much
-detail as needed to explain what the application does as well as any
-other information you want users or other developers to have.}_
+_This is the first HTML page we made as students at
+[Epicodus](https://epicodus.com). We worked [the assignment for this
+page](https://www.learnhowtoprogram.com/introduction-to-programming-part-time-react-track/git-html-and-css/practice-tracking-changes-with-git)
+from [our curriculum](https://learnhowtoprogram.com) on Monday
+January 2022. The index.html, README, LICENSE, and Github Pages
+deployment were added later that week. You can find more of our work
+at:_
+
+* https://github.com/lavinbrenna
+* https://github.com/k9w
+
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Visit the live site at: https://k9w.github.io/my-first-webpage_
+* _Or clone the repo and open the home page in browser._
 
-_{Leave nothing to chance! You want it to be easy for potential users,
-employers and collaborators to run your app. Do I need to run a
-server? How should I set up my databases? Is there other code this
-application depends on? We recommend deleting the project from your
-desktop, re-cloning the project from GitHub, and writing down all the
-steps necessary to get the project working again.}_
 
 ## Known Bugs
 
 * _Any known issues_
 * _should go here_
 
+
 ## License
 
-_{Let people know what to do if they run into any issues or have
-questions, ideas or concerns.  Encourage them to contact you or make a
-contribution to the code.}_
+[ISC](https://choosealicense.com/licenses/isc)
 
-Copyright (c) _date_ _author name(s)_
+_For any problems, please file an issue on Github. Pull Requests welcome._
+
+Copyright (c) _2022_ _Brenna Lavin and Kevin Williams_
